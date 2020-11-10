@@ -13,7 +13,9 @@
     "require": {
         "illuminate/validation": ">=5.8",
         "illuminate/support": ">=5.8",
-        "illuminate/container": ">=5.8",
+        "illuminate/container": ">=5.8"
+    },
+    "require-dev": {
         "mockery/mockery": ">=1.3",
         "phpunit/phpunit": ">=8.5"
     },
